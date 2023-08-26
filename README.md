@@ -1,6 +1,3 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/thiagoxz5/thiagoxz5/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
-
 <p align="center"> I ❤️ solve great challenges using tech. <br><br> Sou um dedicado estudante de Ciência da Computação que busca incansavelmente explorar os complexos territórios da tecnologia e da programação. Com uma mente curiosa e apaixonada pela resolução de problemas, encontro grande satisfação em decifrar desafios algorítmicos e transformar conceitos abstratos em soluções concretas. Minha sede de conhecimento o leva a mergulhar em uma variedade de tópicos, desde inteligência artificial e desenvolvimento web até segurança cibernética. Sempre ansioso por aprendizado, domino algumas linguagens de programação, mas também procuro entender as teorias subjacentes que impulsionam a inovação tecnológica. Fora da sala de aula, gosto de de jogar alguns jogos e me divertir. Com uma atitude pró-ativa e apaixonada pela tecnologia, estou no caminho para se tornar um profissional notável e influente no campo da Tecnologia.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
